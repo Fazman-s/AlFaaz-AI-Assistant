@@ -7,8 +7,6 @@
 A sleek, modern, and responsive AI chatbot application powered by Google's **Gemini API**.  
 This project features a full-stack architecture with a React frontend and a Node.js/Express backend.
 
-![AlFaaz Screenshot](./assets/screenshot.png) <!-- Replace with your own screenshot or demo gif -->
-
 ---
 
 ## ✨ Features
