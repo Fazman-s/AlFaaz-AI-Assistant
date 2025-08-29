@@ -1,0 +1,29 @@
+.markdown-content {
+  font-size: 0.875rem; /* Corresponds to Mantine's 'sm' size */
+  line-height: 1.55;
+  word-break: break-word;
+}
+
+.markdown-content ul,
+.markdown-content ol {
+  padding-left: 1.5rem; /* Add indentation for lists */
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.markdown-content li {
+  margin-bottom: 0.25rem; /* Space between list items */
+}
+
+/* This stronger rule effectively removes the <p> tag from the layout tree */
+.markdown-content li > p {
+  display: contents;
+}
+
+.markdown-content p:last-child {
+  margin-bottom: 0;
+}
+
+.markdown-content strong {
+    font-weight: 700;
+}
