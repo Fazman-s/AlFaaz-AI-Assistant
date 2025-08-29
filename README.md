@@ -171,4 +171,3 @@ This project is licensed under the **MIT License** – see the [LICENSE.md](LICE
 ![TypeScript](https://img.shields.io/badge/typescript-5.x-blue)
 ![Mantine](https://img.shields.io/badge/ui-Mantine-339af0)
 
-```
